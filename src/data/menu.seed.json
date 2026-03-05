@@ -1,0 +1,103 @@
+{
+  "updatedAt": "2026-03-05",
+  "source": "manual-from-scanned-menu-images",
+  "warnings": [
+    "No se detectaron PDFs nativos en public/pdf-carta; se extrajo desde imagenes escaneadas.",
+    "Algunos nombres pueden requerir revision ortografica final por parte del negocio."
+  ],
+  "featured": [
+    { "name": "Mofongo (res, pollo, longaniza o salami)", "price": 17 },
+    { "name": "Camarones a la criolla", "price": 18 },
+    { "name": "Ceviche de camaron", "price": 17 },
+    { "name": "Bandeja paisa", "price": 19 },
+    { "name": "Encebollado", "price": 17 },
+    { "name": "Cochinillo (menu gastronomico)", "price": null }
+  ],
+  "categories": [
+    {
+      "id": "principales",
+      "title": "Platos principales",
+      "items": [
+        { "name": "Sancocho (solo domingos)", "price": 14 },
+        { "name": "Sopa de pollo", "price": 12 },
+        { "name": "Sopa de marisco", "price": 15 },
+        { "name": "Encebollado", "price": 17 },
+        { "name": "Picapollo con patatas", "price": 17, "notes": "Con platano 18,00 EUR" },
+        { "name": "Pechurina", "price": 16 },
+        { "name": "Mofongo (res, pollo, longaniza o salami)", "price": 17 },
+        { "name": "Mangu (res, pollo, longaniza o salami)", "price": 17 },
+        { "name": "Camarofongo", "price": 18 },
+        { "name": "Camarones a la criolla", "price": 18 },
+        { "name": "Chicharron con yuca o platano", "price": 18 },
+        { "name": "Picalonga", "price": 45, "notes": "Pollo, chicharron, bofe, salami, longaniza, platano y yuca" },
+        { "name": "Pescado frito", "price": 19 },
+        { "name": "Camarones apanados", "price": 18 },
+        { "name": "Bandeja paisa", "price": 19 },
+        { "name": "Apanado", "price": 16 },
+        { "name": "Guatita", "price": 15 },
+        { "name": "Ceviche de camaron", "price": 17 },
+        { "name": "Bandera dominicana", "price": 17 },
+        { "name": "Moro de guandules (res o pollo)", "price": 18 },
+        { "name": "Ensalada de aguacate", "price": 16 },
+        { "name": "Empanadas colombianas", "price": 15 },
+        { "name": "Maduro con queso", "price": 12 },
+        { "name": "Arroz con camarones", "price": 17 },
+        { "name": "Arroz de la casa", "price": 18 }
+      ]
+    },
+    {
+      "id": "raciones",
+      "title": "Raciones",
+      "items": [
+        { "name": "Platano", "price": 7 },
+        { "name": "Yuca", "price": 8 },
+        { "name": "Arroz", "price": 4 },
+        { "name": "Habichuelas", "price": 5 },
+        { "name": "Carne guisada", "price": 10 },
+        { "name": "Pollo guisado", "price": 8 },
+        { "name": "Racion de calamares", "price": 10 },
+        { "name": "Sepia", "price": 16 },
+        { "name": "Gambas al ajillo", "price": 16 },
+        { "name": "Croquetas", "price": 10 },
+        { "name": "Patatas bravas", "price": 8 },
+        { "name": "Ensalada mixta", "price": 10 }
+      ]
+    },
+    {
+      "id": "hamburguesas-sandwich",
+      "title": "Hamburguesas y sandwich",
+      "items": [
+        { "name": "Hamburguesa de pollo", "price": 10 },
+        { "name": "Hamburguesa de ternera", "price": 10.5 },
+        { "name": "Sandwich mixto", "price": 4 },
+        { "name": "Sandwich vegetal", "price": 6 },
+        { "name": "Bocadillos al gusto", "price": 6 }
+      ]
+    },
+    {
+      "id": "postres",
+      "title": "Postres",
+      "items": [
+        { "name": "Tarta de queso", "price": 5 },
+        { "name": "Dulce de coco", "price": 5 },
+        { "name": "Flan", "price": 4 }
+      ]
+    },
+    {
+      "id": "menu-castellano",
+      "title": "Menu castellano",
+      "items": [
+        { "name": "Menu gastronomico: judiones o ensalada", "price": null },
+        { "name": "Menu gastronomico: cochinillo", "price": null },
+        { "name": "Menu del dia: sopa castellana", "price": null },
+        { "name": "Menu del dia: revuelto de setas variadas", "price": null },
+        { "name": "Menu del dia: ensalada templada de gulas", "price": null },
+        { "name": "Menu del dia: macarrones", "price": null },
+        { "name": "Menu del dia: pollo de la casa", "price": null },
+        { "name": "Menu del dia: choto guisado con patatas", "price": null },
+        { "name": "Menu del dia: secreto iberico a la plancha con guarnicion", "price": null },
+        { "name": "Menu del dia: dorada a la espalda", "price": null }
+      ]
+    }
+  ]
+}

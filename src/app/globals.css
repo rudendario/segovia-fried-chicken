@@ -1,0 +1,68 @@
+@import "tailwindcss";
+
+@theme {
+  --font-display: var(--font-playfair);
+  --font-sans: var(--font-manrope);
+
+  --color-brand-cream: #f9f5ee;
+  --color-brand-sand: #ede3cf;
+  --color-brand-line: #d0b890;
+  --color-brand-green: #0e2318;
+  --color-brand-copper: #c95d28;
+  --color-brand-copper-light: #f5e0d4;
+}
+
+body {
+  background: var(--color-brand-cream);
+  color: var(--color-brand-green);
+}
+
+.btn-primary {
+  @apply inline-flex items-center justify-center gap-2 rounded-full bg-brand-copper px-6 py-3 text-sm font-bold text-white transition-all hover:brightness-90 active:scale-95 focus-visible:outline-none focus-visible:ring-2 focus-visible:ring-brand-copper focus-visible:ring-offset-2;
+}
+
+.btn-secondary {
+  @apply inline-flex items-center justify-center gap-2 rounded-full border-2 border-brand-copper px-6 py-3 text-sm font-bold text-brand-green transition-all hover:bg-brand-sand active:scale-95 focus-visible:outline-none focus-visible:ring-2 focus-visible:ring-brand-copper focus-visible:ring-offset-2;
+}
+
+.btn-ghost {
+  @apply inline-flex items-center justify-center gap-2 rounded-full border-2 border-white/50 px-6 py-3 text-sm font-bold text-white transition-all hover:bg-white/15 active:scale-95 focus-visible:outline-none focus-visible:ring-2 focus-visible:ring-white focus-visible:ring-offset-2;
+}
+
+.surface {
+  @apply rounded-2xl border border-brand-line/60 bg-white shadow-sm;
+}
+
+.scrollbar-none {
+  scrollbar-width: none;
+}
+.scrollbar-none::-webkit-scrollbar {
+  display: none;
+}
+
+.pill-filter {
+  @apply shrink-0 rounded-full border px-4 py-2 text-sm font-semibold transition-all active:scale-95;
+}
+
+.pill-filter-active {
+  @apply border-brand-copper bg-brand-copper text-white;
+}
+
+.pill-filter-inactive {
+  @apply border-brand-line bg-white text-brand-green hover:border-brand-copper hover:bg-brand-copper-light;
+}
+
+/* Infinite marquee */
+@keyframes marquee {
+  from { transform: translateX(0); }
+  to   { transform: translateX(-50%); }
+}
+
+.marquee-track {
+  animation: marquee 28s linear infinite;
+  will-change: transform;
+}
+
+.marquee-track:hover {
+  animation-play-state: paused;
+}

@@ -1,0 +1,16 @@
+{
+  "name": "Segovia Fried Chicken",
+  "slogan": "Sabores que alimentan el alma",
+  "address": "Calle Doctor Sancho, 3",
+  "city": "40001 Segovia, Espana",
+  "phones": ["+34 921 09 21 44", "+34 665 44 84 19"],
+  "email": null,
+  "instagram": "https://instagram.com/segovia.friedchicken",
+  "whatsappPrimary": "34665448419",
+  "mapQuery": "Calle Doctor Sancho 3, 40001 Segovia",
+  "hours": ["TODO: anadir horarios oficiales"],
+  "notes": [
+    "Datos extraidos de la tarjeta de visita en imagenes.",
+    "No se detecto email legible en la tarjeta."
+  ]
+}

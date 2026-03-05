@@ -1,0 +1,120 @@
+{
+  "updatedAt": "2026-03-05",
+  "source": "fallback-manual",
+  "warnings": [
+    "No hay PDF nativo en public/pdf-carta. Se aplica fallback manual."
+  ],
+  "featured": [
+    { "name": "Sancocho (solo domingos)", "price": 14, "description": "Contundente guiso dominicano con pollo, yuca, plátano verde y verduras. Disponible solo los domingos.", "allergens": ["Apio"], "image": "https://images.unsplash.com/photo-1547592180-85f173990554?auto=format&fit=crop&w=800&q=80" },
+    { "name": "Sopa de pollo", "price": 12, "description": "Caldo casero de pollo con verduras frescas, arroz y hierbas aromáticas. Reconfortante y nutritiva.", "allergens": ["Apio", "Gluten"], "image": "https://images.unsplash.com/photo-1580013759032-c96505e24c1f?auto=format&fit=crop&w=800&q=80" },
+    { "name": "Sopa de marisco", "price": 15, "description": "Generosa sopa con camarones, cangrejo y moluscos en caldo de mar. Sabor intenso y auténtico.", "allergens": ["Crustáceos", "Moluscos", "Pescado"], "image": "https://images.unsplash.com/photo-1534766438357-2b270dbd1b40?auto=format&fit=crop&w=800&q=80" },
+    { "name": "Encebollado", "price": 17, "description": "Plato típico ecuatoriano: atún fresco cocido en caldo de yuca con cebolla encurtida y tomate. Servido con chifles.", "allergens": ["Pescado", "Apio"], "image": "https://images.unsplash.com/photo-1546069901-ba9599a7e63c?auto=format&fit=crop&w=800&q=80" },
+    { "name": "Picapollo con patatas", "price": 17, "notes": "Con platano 18,00 EUR", "description": "Pollo frito al estilo dominicano, crujiente por fuera y jugoso por dentro. Servido con patatas fritas y plátano maduro opcional.", "allergens": ["Gluten", "Huevos"], "image": "https://images.unsplash.com/photo-1626645738196-c2a7c87a8f58?auto=format&fit=crop&w=800&q=80" },
+    { "name": "Pechurina", "price": 16, "description": "Pechuga de pollo marinada y cocinada a la plancha con especias latinas. Acompañada de arroz y habichuelas.", "allergens": ["Gluten"], "image": "https://images.unsplash.com/photo-1504674900247-0877df9cc836?auto=format&fit=crop&w=800&q=80" }
+  ],
+  "categories": [
+    {
+      "id": "sugerencias",
+      "title": "Sugerencias de la casa",
+      "items": [
+        { "name": "Sancocho (solo domingos)", "price": 14, "description": "Contundente guiso dominicano con pollo, yuca, plátano verde y verduras. Disponible solo los domingos.", "allergens": ["Apio"], "image": "https://images.unsplash.com/photo-1547592180-85f173990554?auto=format&fit=crop&w=800&q=80" },
+        { "name": "Sopa de pollo", "price": 12, "description": "Caldo casero de pollo con verduras frescas, arroz y hierbas aromáticas. Reconfortante y nutritiva.", "allergens": ["Apio", "Gluten"], "image": "https://images.unsplash.com/photo-1580013759032-c96505e24c1f?auto=format&fit=crop&w=800&q=80" },
+        { "name": "Sopa de marisco", "price": 15, "description": "Generosa sopa con camarones, cangrejo y moluscos en caldo de mar. Sabor intenso y auténtico.", "allergens": ["Crustáceos", "Moluscos", "Pescado"], "image": "https://images.unsplash.com/photo-1534766438357-2b270dbd1b40?auto=format&fit=crop&w=800&q=80" },
+        { "name": "Encebollado", "price": 17, "description": "Plato típico ecuatoriano: atún fresco cocido en caldo de yuca con cebolla encurtida y tomate. Servido con chifles.", "allergens": ["Pescado", "Apio"], "image": "https://images.unsplash.com/photo-1546069901-ba9599a7e63c?auto=format&fit=crop&w=800&q=80" },
+        { "name": "Picapollo con patatas", "price": 17, "notes": "Con platano 18,00 EUR", "description": "Pollo frito al estilo dominicano, crujiente por fuera y jugoso por dentro. Servido con patatas fritas y plátano maduro opcional.", "allergens": ["Gluten", "Huevos"], "image": "https://images.unsplash.com/photo-1626645738196-c2a7c87a8f58?auto=format&fit=crop&w=800&q=80" },
+        { "name": "Pechurina", "price": 16, "description": "Pechuga de pollo marinada y cocinada a la plancha con especias latinas. Acompañada de arroz y habichuelas.", "allergens": ["Gluten"], "image": "https://images.unsplash.com/photo-1504674900247-0877df9cc836?auto=format&fit=crop&w=800&q=80" }
+      ]
+    },
+    {
+      "id": "principales",
+      "title": "Platos principales",
+      "items": [
+        { "name": "Sancocho (solo domingos)", "price": 14, "description": "Contundente guiso dominicano con pollo, yuca, plátano verde y verduras. Disponible solo los domingos.", "allergens": ["Apio"], "image": "https://images.unsplash.com/photo-1547592180-85f173990554?auto=format&fit=crop&w=800&q=80" },
+        { "name": "Sopa de pollo", "price": 12, "description": "Caldo casero de pollo con verduras frescas, arroz y hierbas aromáticas. Reconfortante y nutritiva.", "allergens": ["Apio", "Gluten"], "image": "https://images.unsplash.com/photo-1580013759032-c96505e24c1f?auto=format&fit=crop&w=800&q=80" },
+        { "name": "Sopa de marisco", "price": 15, "description": "Generosa sopa con camarones, cangrejo y moluscos en caldo de mar. Sabor intenso y auténtico.", "allergens": ["Crustáceos", "Moluscos", "Pescado"], "image": "https://images.unsplash.com/photo-1534766438357-2b270dbd1b40?auto=format&fit=crop&w=800&q=80" },
+        { "name": "Encebollado", "price": 17, "description": "Plato típico ecuatoriano: atún fresco cocido en caldo de yuca con cebolla encurtida y tomate. Servido con chifles.", "allergens": ["Pescado", "Apio"], "image": "https://images.unsplash.com/photo-1546069901-ba9599a7e63c?auto=format&fit=crop&w=800&q=80" },
+        { "name": "Picapollo con patatas", "price": 17, "notes": "Con platano 18,00 EUR", "description": "Pollo frito al estilo dominicano, crujiente por fuera y jugoso por dentro. Servido con patatas fritas y plátano maduro opcional.", "allergens": ["Gluten", "Huevos"], "image": "https://images.unsplash.com/photo-1626645738196-c2a7c87a8f58?auto=format&fit=crop&w=800&q=80" },
+        { "name": "Pechurina", "price": 16, "description": "Pechuga de pollo marinada y cocinada a la plancha con especias latinas. Acompañada de arroz y habichuelas.", "allergens": ["Gluten"], "image": "https://images.unsplash.com/photo-1504674900247-0877df9cc836?auto=format&fit=crop&w=800&q=80" },
+        { "name": "Mofongo (res, pollo, longaniza o salami)", "price": 17, "description": "Plátano verde majado con ajo y aceite, relleno de tu elección: res guisada, pollo, longaniza o salami. Sabor profundo y tradicional.", "allergens": ["Apio", "Gluten"], "image": "https://images.unsplash.com/photo-1555939594-58d7cb561ad1?auto=format&fit=crop&w=800&q=80" },
+        { "name": "Mangu (res, pollo, longaniza o salami)", "price": 17, "description": "Puré de plátano verde cocido, suave y cremoso, acompañado de tu elección de carne. Desayuno o plato principal dominicano.", "allergens": ["Lácteos", "Apio"], "image": "https://images.unsplash.com/photo-1562967914-608f82629710?auto=format&fit=crop&w=800&q=80" },
+        { "name": "Camarofongo", "price": 18, "description": "Mofongo de plátano verde relleno de camarones salteados en salsa criolla. Una fusión de sabores del mar y la tierra.", "allergens": ["Crustáceos", "Gluten", "Apio"], "image": "https://images.unsplash.com/photo-1565557623262-b51c2513a641?auto=format&fit=crop&w=800&q=80" },
+        { "name": "Camarones a la criolla", "price": 18, "description": "Camarones grandes cocinados en sofrito criollo con tomate, pimiento y especias. Servidos con arroz blanco.", "allergens": ["Crustáceos", "Apio"], "image": "https://images.unsplash.com/photo-1537047902294-62a40c20a6ae?auto=format&fit=crop&w=800&q=80" },
+        { "name": "Chicharron con yuca o platano", "price": 18, "description": "Trozos de cerdo fritos hasta quedar crujientes, acompañados de yuca hervida o plátano frito. Un clásico caribeño.", "allergens": ["Gluten"], "image": "https://images.unsplash.com/photo-1528605248644-14dd04022da1?auto=format&fit=crop&w=800&q=80" },
+        { "name": "Picalonga", "price": 45, "notes": "Pollo, chicharron, bofe, salami, longaniza, platano y yuca", "description": "Fuente para compartir con lo mejor de la cocina dominicana: pollo frito, chicharrón, bofe, salami, longaniza, plátano y yuca. Perfecta para grupos.", "allergens": ["Gluten", "Apio"], "image": "https://images.unsplash.com/photo-1562967914-608f82629710?auto=format&fit=crop&w=800&q=80" },
+        { "name": "Pescado frito", "price": 19, "description": "Pescado entero frito en su punto, con la piel crujiente y la carne jugosa. Acompañado de tostones y ensalada.", "allergens": ["Pescado", "Gluten"], "image": "https://images.unsplash.com/photo-1485963631004-f2f00b1d6606?auto=format&fit=crop&w=800&q=80" },
+        { "name": "Camarones apanados", "price": 18, "description": "Camarones rebozados con pan crujiente y fritos en aceite. Servidos con salsa de acompañamiento.", "allergens": ["Crustáceos", "Gluten", "Huevos"], "image": "https://images.unsplash.com/photo-1565557623262-b51c2513a641?auto=format&fit=crop&w=800&q=80" },
+        { "name": "Bandeja paisa", "price": 19, "description": "El plato insignia colombiano: arroz, frijoles, chicharrón, carne molida, chorizo, huevo frito, plátano y aguacate.", "allergens": ["Huevos", "Gluten", "Apio"], "image": "https://images.unsplash.com/photo-1546069901-ba9599a7e63c?auto=format&fit=crop&w=800&q=80" },
+        { "name": "Apanado", "price": 16, "description": "Filete de pollo o ternera empanado y frito, dorado y crujiente. Servido con guarnición de arroz y ensalada.", "allergens": ["Gluten", "Huevos"], "image": "https://images.unsplash.com/photo-1555939594-58d7cb561ad1?auto=format&fit=crop&w=800&q=80" },
+        { "name": "Guatita", "price": 15, "description": "Guiso ecuatoriano de mondongo en salsa de maní y especias. Un plato tradicional de sabor profundo e intenso.", "allergens": ["Cacahuetes", "Apio", "Lácteos"], "image": "https://images.unsplash.com/photo-1547592180-85f173990554?auto=format&fit=crop&w=800&q=80" },
+        { "name": "Ceviche de camaron", "price": 17, "description": "Camarones marinados en limón con cebolla morada, tomate y cilantro. Fresco, ácido y lleno de sabor.", "allergens": ["Crustáceos"], "image": "https://images.unsplash.com/photo-1565557623262-b51c2513a641?auto=format&fit=crop&w=800&q=80" },
+        { "name": "Bandera dominicana", "price": 17, "description": "El plato nacional de República Dominicana: arroz blanco, habichuelas rojas y pollo guisado. Sencillo, nutritivo y delicioso.", "allergens": ["Apio"], "image": "https://images.unsplash.com/photo-1580013759032-c96505e24c1f?auto=format&fit=crop&w=800&q=80" },
+        { "name": "Moro de guandules (res o pollo)", "price": 18, "description": "Arroz cocinado junto a guandules y coco, con res o pollo guisado. Un plato festivo dominicano lleno de color y sabor.", "allergens": ["Apio"], "image": "https://images.unsplash.com/photo-1562967914-608f82629710?auto=format&fit=crop&w=800&q=80" },
+        { "name": "Ensalada de aguacate", "price": 16, "description": "Aguacate fresco en rodajas con tomate, cebolla, cilantro y limón. Ligera, saludable y sabrosa.", "allergens": ["Mostaza"], "image": "https://images.unsplash.com/photo-1512621776951-a57141f2eefd?auto=format&fit=crop&w=800&q=80" },
+        { "name": "Empanadas colombianas", "price": 15, "description": "Empanadillas de masa de maíz rellenas de carne y papa, fritas hasta quedar doradas. Perfectas como entrante o snack.", "allergens": ["Gluten", "Huevos"], "image": "https://images.unsplash.com/photo-1528605248644-14dd04022da1?auto=format&fit=crop&w=800&q=80" },
+        { "name": "Maduro con queso", "price": 12, "description": "Plátano maduro frito, dulce y suave, cubierto con queso fundido. El contraste perfecto entre dulce y salado.", "allergens": ["Lácteos"], "image": "https://images.unsplash.com/photo-1555939594-58d7cb561ad1?auto=format&fit=crop&w=800&q=80" },
+        { "name": "Arroz con camarones", "price": 17, "description": "Arroz cocinado en caldo de marisco con camarones frescos, pimiento y especias. Un clásico de la cocina caribeña.", "allergens": ["Crustáceos", "Apio"], "image": "https://images.unsplash.com/photo-1537047902294-62a40c20a6ae?auto=format&fit=crop&w=800&q=80" },
+        { "name": "Arroz de la casa", "price": 18, "description": "Arroz especial de la casa cocinado con pollo, verduras y el sofrito de la receta propia. Un plato de autor.", "allergens": ["Apio"], "image": "https://images.unsplash.com/photo-1580013759032-c96505e24c1f?auto=format&fit=crop&w=800&q=80" }
+      ]
+    },
+    {
+      "id": "raciones",
+      "title": "Raciones",
+      "items": [
+        { "name": "Platano", "price": 7, "description": "Plátano frito maduro o verde según preferencia. Acompañamiento imprescindible en la cocina caribeña.", "allergens": [], "image": "https://images.unsplash.com/photo-1555939594-58d7cb561ad1?auto=format&fit=crop&w=800&q=80" },
+        { "name": "Yuca", "price": 8, "description": "Yuca hervida o frita, tierna por dentro y crujiente por fuera. Acompañamiento tradicional latinoamericano.", "allergens": [], "image": "https://images.unsplash.com/photo-1528605248644-14dd04022da1?auto=format&fit=crop&w=800&q=80" },
+        { "name": "Arroz", "price": 4, "description": "Arroz blanco esponjoso, base de la cocina latina. Acompañamiento perfecto para cualquier plato.", "allergens": [], "image": "https://images.unsplash.com/photo-1562967914-608f82629710?auto=format&fit=crop&w=800&q=80" },
+        { "name": "Habichuelas", "price": 5, "description": "Habichuelas rojas guisadas en sofrito criollo con apio, tomate y especias. Cremosas y sabrosas.", "allergens": ["Apio"], "image": "https://images.unsplash.com/photo-1547592180-85f173990554?auto=format&fit=crop&w=800&q=80" },
+        { "name": "Carne guisada", "price": 10, "description": "Ternera guisada a fuego lento con verduras, vino y especias hasta quedar tierna y melosa.", "allergens": ["Apio", "Gluten"], "image": "https://images.unsplash.com/photo-1504674900247-0877df9cc836?auto=format&fit=crop&w=800&q=80" },
+        { "name": "Pollo guisado", "price": 8, "description": "Pollo cocinado en sofrito con tomate, pimiento, ajo y hierbas hasta quedar jugoso y sabroso.", "allergens": ["Apio"], "image": "https://images.unsplash.com/photo-1580013759032-c96505e24c1f?auto=format&fit=crop&w=800&q=80" },
+        { "name": "Racion de calamares", "price": 10, "description": "Anillas de calamar rebozadas y fritas, tiernas por dentro y crujientes por fuera. Servidas con ali-oli.", "allergens": ["Moluscos", "Gluten", "Huevos"], "image": "https://images.unsplash.com/photo-1537047902294-62a40c20a6ae?auto=format&fit=crop&w=800&q=80" },
+        { "name": "Sepia", "price": 16, "description": "Sepia a la plancha o en su tinta, cocinada con ajo, perejil y aceite de oliva. Sabor marino intenso.", "allergens": ["Moluscos"], "image": "https://images.unsplash.com/photo-1485963631004-f2f00b1d6606?auto=format&fit=crop&w=800&q=80" },
+        { "name": "Gambas al ajillo", "price": 16, "description": "Gambas salteadas en aceite de oliva con ajo laminado y guindilla. Servidas burbujeando en cazuela.", "allergens": ["Crustáceos", "Gluten"], "image": "https://images.unsplash.com/photo-1565557623262-b51c2513a641?auto=format&fit=crop&w=800&q=80" },
+        { "name": "Croquetas", "price": 10, "description": "Croquetas caseras de jamón ibérico o pollo, con bechamel cremosa y rebozado crujiente.", "allergens": ["Gluten", "Huevos", "Lácteos"], "image": "https://images.unsplash.com/photo-1528605248644-14dd04022da1?auto=format&fit=crop&w=800&q=80" },
+        { "name": "Patatas bravas", "price": 8, "description": "Patatas fritas crujientes con salsa brava picante y ali-oli suave. El tapeo español por excelencia.", "allergens": ["Gluten", "Mostaza", "Huevos"], "image": "https://images.unsplash.com/photo-1546069901-ba9599a7e63c?auto=format&fit=crop&w=800&q=80" },
+        { "name": "Ensalada mixta", "price": 10, "description": "Lechuga, tomate, cebolla, aceitunas, huevo duro y atún con aliño de vinagreta. Fresca y completa.", "allergens": ["Pescado", "Huevos", "Mostaza"], "image": "https://images.unsplash.com/photo-1512621776951-a57141f2eefd?auto=format&fit=crop&w=800&q=80" }
+      ]
+    },
+    {
+      "id": "hamburguesas-sandwich",
+      "title": "Hamburguesas y sandwich",
+      "items": [
+        { "name": "Hamburguesa de pollo", "price": 10, "description": "Pechuga de pollo empanada o a la plancha con lechuga, tomate, cebolla y salsa de la casa en pan artesano.", "allergens": ["Gluten", "Huevos", "Lácteos", "Mostaza"], "image": "https://images.unsplash.com/photo-1565299585323-38d6b0865b47?auto=format&fit=crop&w=800&q=80" },
+        { "name": "Hamburguesa de ternera", "price": 10.5, "description": "Hamburguesa de ternera 100% con queso fundido, cebolla caramelizada, pepinillo y salsa especial en pan brioche.", "allergens": ["Gluten", "Huevos", "Lácteos", "Mostaza", "Sésamo"], "image": "https://images.unsplash.com/photo-1556761175-5973dc0f32e7?auto=format&fit=crop&w=800&q=80" },
+        { "name": "Sandwich mixto", "price": 4, "description": "Pan de molde tostado con jamón york y queso fundido. Sencillo, clásico y reconfortante.", "allergens": ["Gluten", "Lácteos"], "image": "https://images.unsplash.com/photo-1528736235302-52922df5c122?auto=format&fit=crop&w=800&q=80" },
+        { "name": "Sandwich vegetal", "price": 6, "description": "Pan tostado con lechuga, tomate, huevo cocido, espárragos y mayonesa. Fresco y ligero.", "allergens": ["Gluten", "Huevos", "Mostaza"], "image": "https://images.unsplash.com/photo-1512621776951-a57141f2eefd?auto=format&fit=crop&w=800&q=80" },
+        { "name": "Bocadillos al gusto", "price": 6, "description": "Bocadillo en pan de barra con el relleno de tu elección. Pregunta por las opciones disponibles del día.", "allergens": ["Gluten"], "image": "https://images.unsplash.com/photo-1528736235302-52922df5c122?auto=format&fit=crop&w=800&q=80" }
+      ]
+    },
+    {
+      "id": "postres",
+      "title": "Postres",
+      "items": [
+        { "name": "Tarta de queso", "price": 5, "description": "Tarta de queso cremosa al horno, con base de galleta y coulis de frutos rojos. El postre más pedido de la casa.", "allergens": ["Gluten", "Huevos", "Lácteos"], "image": "https://images.unsplash.com/photo-1488477181946-6428a0291777?auto=format&fit=crop&w=800&q=80" },
+        { "name": "Dulce de coco", "price": 5, "description": "Postre tradicional dominicano elaborado con coco rallado, leche y azúcar. Dulce, aromático e irresistible.", "allergens": ["Lácteos", "Frutos de cáscara"], "image": "https://images.unsplash.com/photo-1562967914-608f82629710?auto=format&fit=crop&w=800&q=80" },
+        { "name": "Flan", "price": 4, "description": "Flan casero de huevo con caramelo líquido. Suave, cremoso y con el punto justo de dulzor.", "allergens": ["Huevos", "Lácteos"], "image": "https://images.unsplash.com/photo-1488477181946-6428a0291777?auto=format&fit=crop&w=800&q=80" }
+      ]
+    },
+    {
+      "id": "menu-gastronomico",
+      "title": "Menú gastronómico",
+      "items": [
+        { "name": "Judiones o ensalada", "price": null, "description": "Primer plato a elegir: judiones de La Granja estofados o ensalada mixta de temporada. Cocina castellana tradicional.", "allergens": ["Apio"], "image": "https://images.unsplash.com/photo-1512621776951-a57141f2eefd?auto=format&fit=crop&w=800&q=80" },
+        { "name": "Cochinillo", "price": null, "description": "Cochinillo segoviano asado al horno de leña según la receta tradicional. Piel crujiente y carne tierna. El emblema de Segovia.", "allergens": [], "image": "https://images.unsplash.com/photo-1544025162-d76538b2a96b?auto=format&fit=crop&w=800&q=80" }
+      ]
+    },
+    {
+      "id": "menu-del-dia",
+      "title": "Menú del día",
+      "items": [
+        { "name": "Sopa castellana", "price": null, "description": "Sopa de ajo con pan, pimentón, jamón y huevo escalfado. Reconfortante y de sabor intenso.", "allergens": ["Gluten", "Huevos", "Apio"], "image": "https://images.unsplash.com/photo-1547592180-85f173990554?auto=format&fit=crop&w=800&q=80" },
+        { "name": "Revuelto de setas variadas", "price": null, "description": "Huevos revueltos con setas de temporada salteadas en ajo y aceite. Suave, aromático y muy sabroso.", "allergens": ["Huevos", "Lácteos"], "image": "https://images.unsplash.com/photo-1504674900247-0877df9cc836?auto=format&fit=crop&w=800&q=80" },
+        { "name": "Ensalada templada de gulas", "price": null, "description": "Mezcla de lechugas con gulas salteadas, gambas y vinagreta tibia. Elegante y llena de sabor marino.", "allergens": ["Pescado", "Crustáceos", "Mostaza"], "image": "https://images.unsplash.com/photo-1512621776951-a57141f2eefd?auto=format&fit=crop&w=800&q=80" },
+        { "name": "Macarrones", "price": null, "description": "Macarrones a la boloñesa o en salsa de tomate casera, gratinados con queso. Un plato de comfort food.", "allergens": ["Gluten", "Huevos", "Lácteos"], "image": "https://images.unsplash.com/photo-1473093295043-cdd812d0e601?auto=format&fit=crop&w=800&q=80" },
+        { "name": "Pollo de la casa", "price": null, "description": "Pollo asado o guisado con la receta propia, acompañado de patatas y pimientos. El favorito del menú.", "allergens": ["Gluten", "Apio"], "image": "https://images.unsplash.com/photo-1580013759032-c96505e24c1f?auto=format&fit=crop&w=800&q=80" },
+        { "name": "Choto guisado con patatas", "price": null, "description": "Cabrito tierno guisado con patatas, hierbas y vino blanco. Plato tradicional castellano de sabor auténtico.", "allergens": ["Apio", "Gluten"], "image": "https://images.unsplash.com/photo-1504674900247-0877df9cc836?auto=format&fit=crop&w=800&q=80" },
+        { "name": "Secreto ibérico a la plancha con guarnición", "price": null, "description": "Corte de secreto ibérico a la plancha en su punto, jugoso y sabroso. Acompañado de patatas y pimientos asados.", "allergens": ["Mostaza"], "image": "https://images.unsplash.com/photo-1544025162-d76538b2a96b?auto=format&fit=crop&w=800&q=80" },
+        { "name": "Dorada a la espalda", "price": null, "description": "Dorada entera abierta a la espalda, asada con aceite, ajo y guindilla. Fresca, ligera y llena de sabor.", "allergens": ["Pescado", "Mostaza"], "image": "https://images.unsplash.com/photo-1485963631004-f2f00b1d6606?auto=format&fit=crop&w=800&q=80" }
+      ]
+    }
+  ]
+}
